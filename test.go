@@ -1,6 +1,6 @@
 package main
 import "fmt"
 func main() {
-    fmt.Println("test" + "test1")
+    fmt.Println("test2")
 }
 
